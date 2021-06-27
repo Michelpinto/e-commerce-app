@@ -1,22 +1,32 @@
-# ReactJs Project E-commerce
+# ReactJs Project E-commerce 💳 🛍
 
 A very simple E-commerce project, I like sneakers and i like e-commerce too so why not? 
 
-# Things i learned while building this app:
+# Why did you build this project? 🤔
 
-Different way of calling API's
+"E-commerce" that's it, I like e-commerce and I knew this would give a real challenge to the point that I start thinking about throwing my laptop away
 
-How to store public keys 
+# Motivation 🦾
 
-How to structure components with styles architecture
+To sharp my coding skills, to be able to have a big project using this many technologies so that I can showcase on my portfolio
 
-Material UI
+# Things i learned while building this app: 👨🏾‍💻
 
-How to setup your products using chec commerce
+ Different way of calling API's
 
-Couple things on routers
+ How to store public keys 
 
-How to pass it down props and state the right way to child components
+ How to structure components with styles architecture
+ 
+ How to read documentation
+
+ Material UI
+
+ How to setup your products using chec commerce
+
+ Couple things on routers
+
+ How to pass it down props and state the right way to child components
 
 # Created with create-react-app.
 
